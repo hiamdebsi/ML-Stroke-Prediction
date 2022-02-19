@@ -47,7 +47,7 @@ By training the dataset with the appropriate models and stating their comparison
 * We then saved the final optimized model as a pkl file in order to deploy on Heroku. Details of the Flask Application as well as the Heroku Deployment will be [linked right here.](https://github.com/SherryKennedy/Stroke_Prediction_Model)
 
 ## Conclusions
-![Image of Final Chart](./Images/Final Charts.png)
+![Image of Final Chart](./Images/Final_Charts.png)
 
 As seen in the visual above, after optimization procedures, all models accuracy reached above 90%. The Random Forest Classification Model was the most accurate algorithm after optimization with a 95% accuracy score. We considered it as the “best choice’’ so far based on several considerations: Higher accuracy score, better performance on recall score and individual features of input information.
 
