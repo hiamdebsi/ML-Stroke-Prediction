@@ -40,8 +40,8 @@ By training the dataset with the appropriate models and stating their comparison
  * Used the following [optimization methods](link to report) to improve models:
    * SMOTE
    * GridSearchCV Optimizer
-   * Scaled Data
-   * Stratifying Data
+   * StandardScaler
+   * Stratify
 * We then saved the final optimized model as a pkl file in order to deploy on Heroku. Details of the Flask Application as well as the Heroku Deployment will be [linked right here.](https://github.com/SherryKennedy/Stroke_Prediction_Model)
 
 ## Conclusions
