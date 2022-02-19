@@ -45,7 +45,7 @@ By training the dataset with the appropriate models and stating their comparison
 * We then saved the final optimized model as a pkl file in order to deploy on Heroku. Details of the Flask Application as well as the Heroku Deployment will be [linked right here.](https://github.com/SherryKennedy/Stroke_Prediction_Model)
 
 ## Conclusions
-<img src="/ML-Stroke-Prediction/Images/Final Charts.png" alt="Final Charts" title="Final Charts">
+<img src="ML-Stroke-Prediction/Images/Final Charts.png" alt="Final Charts" title="Final Charts">
 
 ## References
 
