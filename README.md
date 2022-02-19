@@ -35,7 +35,7 @@ Please refer to the [report](pdf link) and [presentation](pdf link) for a thorou
 * We then saved the final optimized model as a pkl file in order to deploy on Heroku. Details of the Flask Application as well as the Heroku Deployment will be [linked right here.](https://github.com/SherryKennedy/Stroke_Prediction_Model)
 
 ## Conclusions
- * Insert Image of Final chart * 
+## 
 
 ## References
 
