@@ -1,5 +1,5 @@
 # Machine Learning: Stroke Prediction Model
-Please refer to the [report](pdf link), [presentation](pdf link) and [model optimization tracker](link) for a thorough explanation of this project.
+Please refer to the [report](pdf link), [presentation](pdf link) and [model optimization tracker](https://github.com/hiamdebsi/ML-Stroke-Prediction/blob/main/Model_Optimization_Tracker.pdf) for a thorough explanation of this project.
 
 [Github Link of Flask App](https://github.com/SherryKennedy/Stroke_Prediction_Model)                         
 [Heroku Link](https://stroke-predictor.herokuapp.com/)                      
