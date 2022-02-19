@@ -34,8 +34,6 @@ By training the dataset with the appropriate models and stating their comparison
 ## [Data Engineering](https://github.com/hiamdebsi/ML-Stroke-Prediction/tree/main/Data%20Engineering)
 ![Image of Architecture of Process](./Images/Flow.png)
 
-* Link jupyter notebook * 
-
 ## Model Data [Implementation and Optimization](https://github.com/hiamdebsi/ML-Stroke-Prediction/blob/main/Data%20Model%20Implementation/Final_Optimized_Model_RM-Copy1.ipynb) 
 
  * Evaluated 4 models: Support Vector Machine (SVM), K-Nearest Neighbor(KNN),Decision Tree Classifier, and Random Forest Classifier.
