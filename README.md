@@ -1,5 +1,9 @@
 # Machine Learning: Stroke Prediction Model
-Please refer to the [report](pdf link) and [presentation](pdf link) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
+Please refer to the [report](pdf link), [presentation](pdf link) and [model optimization tracker](link) for a thorough explanation of this project.
+
+[Github Link of Flask App](https://github.com/SherryKennedy/Stroke_Prediction_Model)                         
+[Heroku Link](https://stroke-predictor.herokuapp.com/)                      
+[Github Link to Model Code](https://github.com/hiamdebsi/ML-Stroke-Prediction)
 
 ## Motivation
 Annually, 15 million people worldwide suffer a stroke. Of these, 5 million die and another 5 million are left permanently disabled, placing a burden on family and community.(1) A stroke occurs when blood supply to parts of the brain is interrupted or reduced, which prevents brain tissue from getting it’s needed nutrients. This begins to deteriorate brain cells within minutes. Strokes are the leading cause of long-term disability and carry a very high risk of death(2). It is commonly seen amongst those with high blood pressure, diabetes, obesity, and smokers of age 40 years and above mostly.(2) Are you at a high risk of developing a stroke? Let’s find out!
@@ -46,11 +50,12 @@ By training the dataset with the appropriate models and stating their comparison
 ## References
 
 Data set Link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
-http://www.emro.who.int/health-topics/stroke-cerebrovascular-accident/index.html
-https://www.cdc.gov/stroke/about.htm
-https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
-https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
-https://scikit-learn.org/stable/supervised_learning.html
-https://realpython.com/flask-by-example-part-1-project-setup/
+1. http://www.emro.who.int/health-topics/stroke-cerebrovascular-accident/index.html
+2. https://www.cdc.gov/stroke/about.htm
+3. https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
+4. https://machinelearningmastery.com/
+5. smote-oversampling-for-imbalanced-classification/
+6. https://scikit-learn.org/stable/supervised_learning.html
+8. https://realpython.com/flask-by-example-part-1-project-setup/
 
 
