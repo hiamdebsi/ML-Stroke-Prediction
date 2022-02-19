@@ -1,5 +1,5 @@
 # Machine Learning: Stroke Prediction Model
-Please refer to the [report](pdf link), [presentation](pdf link) and [model optimization tracker](https://github.com/hiamdebsi/ML-Stroke-Prediction/blob/main/Model_Optimization_Tracker.pdf) for a thorough explanation of this project.
+Please refer to the [report](pdf link), [presentation](pdf link) and [model optimization tracker](link) for a thorough explanation of this project.
 
 [Github Link of Flask App](https://github.com/SherryKennedy/Stroke_Prediction_Model)                         
 [Heroku Link](https://stroke-predictor.herokuapp.com/)                      
@@ -45,7 +45,7 @@ By training the dataset with the appropriate models and stating their comparison
 * We then saved the final optimized model as a pkl file in order to deploy on Heroku. Details of the Flask Application as well as the Heroku Deployment will be [linked right here.](https://github.com/SherryKennedy/Stroke_Prediction_Model)
 
 ## Conclusions
- * Insert Image of Final chart * 
+<img src="/ML-Stroke-Prediction/Images/Final Charts.png" alt="Final Charts" title="Final Charts">
 
 ## References
 
