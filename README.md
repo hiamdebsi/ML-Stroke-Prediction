@@ -45,3 +45,12 @@ By training the dataset with the appropriate models and stating their comparison
 
 ## References
 
+Data set Link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+http://www.emro.who.int/health-topics/stroke-cerebrovascular-accident/index.html
+https://www.cdc.gov/stroke/about.htm
+https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+https://scikit-learn.org/stable/supervised_learning.html
+https://realpython.com/flask-by-example-part-1-project-setup/
+
+
