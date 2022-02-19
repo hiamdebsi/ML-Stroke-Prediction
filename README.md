@@ -1,5 +1,5 @@
 # Machine Learning: Stroke Prediction Model
-Please refer to the [report](https://github.com/hiamdebsi/Project_3-Visualize_Me_Captain/blob/main/Project%203%20-%20Report.pdf) and [presentation](https://github.com/hiamdebsi/Project_3-Visualize_Me_Captain/blob/main/Project%203%20-%20Presentation.pdf) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
+Please refer to the [report](pdf link) and [presentation](pdf link) for a thorough explanation of this project. Below you will find the analysis steps and links to the relevant folders and files.
 
 ## Motivation
 
