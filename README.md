@@ -32,7 +32,7 @@ By training the dataset with the appropriate models and stating their comparison
   * Pickle
 
 ## [Data Engineering](https://github.com/hiamdebsi/ML-Stroke-Prediction/tree/main/Data%20Engineering)
-![Image of Architecture of Process](./Images/images/Architecture1.jpg)
+![Image of Architecture of Process](./Images/Flow.png)
 
 * Link jupyter notebook * 
 
